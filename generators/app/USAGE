@@ -1,0 +1,15 @@
+Subgenerators: 
+    entity
+    java.controller
+    java.service
+    repository
+    dto
+    javascript.service
+    javascript.controller
+    module
+    cronjob
+    exception
+    directive
+
+Run these like: 
+      yo gen-java:[subgenerator-name]
